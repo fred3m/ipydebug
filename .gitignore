@@ -1,0 +1,6 @@
+*.pyc
+*.egg
+
+build
+ipydebug.egg-info
+dist
